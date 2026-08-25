@@ -1,4 +1,4 @@
-# Image version1
+# Image version
 FROM cloudmlops7/distilbert-sentiment:v1
 
 EXPOSE 7860
